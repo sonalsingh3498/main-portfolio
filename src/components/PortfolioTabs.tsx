@@ -538,7 +538,8 @@ export function PortfolioTabs() {
                     <div>
                       <p className="text-sm text-gray-500 dark:text-gray-400">LinkedIn</p>
                       <span className="text-gray-900 dark:text-white font-medium">
-                        Linkedin-Sonal_Singh
+                        <a href="www.linkedin.com/in/sonal-singh-b4159a1b8">Sonal Singh</a>
+                     
                       </span>
                     </div>
                   </div>
@@ -554,7 +555,7 @@ export function PortfolioTabs() {
               </Card>
 
               {/* Professional Quote */}
-              <div className="bg-gradient-to-br from-navy-600 to-blue-500 rounded-xl p-8 text-white">
+              <div className="bg-blue-300 rounded-xl p-8 text-white">
                 <div className="mb-6">
                   <svg className="w-12 h-12 opacity-50" fill="currentColor" viewBox="0 0 24 24">
                     <path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h4v10h-10z"/>
@@ -567,7 +568,7 @@ export function PortfolioTabs() {
                 </blockquote>
                 <div className="flex items-center">
                   <div className="w-10 h-10 bg-white bg-opacity-20 rounded-full flex items-center justify-center mr-3">
-                    <span className="text-sm font-bold">VK</span>
+                    <span className="text-sm text-black font-bold">VK</span>
                   </div>
                   <div>
                     <p className="font-semibold">Vinu Kumar</p>
